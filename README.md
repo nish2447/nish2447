@@ -1,3 +1,5 @@
+![gif](programming.gif)
+
 ### Hello World! 👋
 
 - 🔭 I’m a competitive programmer and a flutter developer
